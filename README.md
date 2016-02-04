@@ -1,7 +1,7 @@
 # JavaScript
 
 
-Exception Handling
+## Exception Handling
 
 ```
 try{
@@ -21,7 +21,7 @@ try{
 ```
 -------------------
 
-Inheritance
+## Inheritance
 ```
 - No Classical Inheritance, Only Prototypal Inheritance
 - An Object inherits from another Object
