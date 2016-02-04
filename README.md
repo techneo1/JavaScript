@@ -1,5 +1,6 @@
 # JavaScript
 Exception Handling
+
 try{
 	// Test statements for any JavaScript Exceptions or manually throw the exceptions
 }catch(e){ // Catch the JavaScript Exception or manually throwned Exceptions
